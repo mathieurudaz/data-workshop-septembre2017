@@ -1,5 +1,9 @@
 # data-workshop-septembre2017
 Workshop data septembre 2017
 
+## 1. Le data, à quoi ça mène
+
 ## 2. Comment tirer une histoire d’une feuille Excel
 [Votre première base de données](https://docs.google.com/spreadsheets/d/1KtvS7DVQ5qzK6LHWt5npAcZBhBsTlTfJkzOdN7E03DA/edit?ts=59cbb7d6#gid=0)
+
+## 3. La pratique
