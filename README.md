@@ -15,4 +15,4 @@ Workshop data septembre 2017
 
 [2. Travailler avec notre jeu de données](https://github.com/mathieurudaz/data-workshop-septembre2017/blob/master/2-google_sheet.ipynb)
 
-[3. Un jeu de données des CFF](https://github.com/gudule6/dataprojects/tree/master/2017-10-25%20CFF%20stations%20shops)
+[3. Un jeu de données des CFF](https://github.com/gudule6/dataprojects/blob/master/2017-10-25%20CFF%20stations%20shops.zip)
